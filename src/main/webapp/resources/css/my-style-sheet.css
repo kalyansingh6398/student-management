@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+h1{
+	color:steelblue;
+}
+.myFonts{
+	font-size:20px ;
+	font-family: monospace;
+}
+.myButton{
+	
+	color: white;
+	background-color: cornflowerblue;
+	border: 2px solid black;
+	padding:10px 10px 10px 10px ;
+	transition-duration: 0.5s;
+} 
+.myButton:hover{
+	background-color: lightseagreen;
+	color: black;
+}
+
